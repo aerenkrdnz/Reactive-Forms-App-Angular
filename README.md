@@ -25,3 +25,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![Ekran Alıntısı](https://github.com/aerenkrdnz/Reactive-Forms-App-Angular/assets/151842601/e41f1af8-165a-48bd-b20c-9c33415518bd)
+![Ekran Alıntısı2](https://github.com/aerenkrdnz/Reactive-Forms-App-Angular/assets/151842601/902780ba-8049-4fc6-9802-09114f848263)
+
